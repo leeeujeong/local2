@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;ex2_socket.MainClass&apos; to &apos;ServerMainClass&apos;&#x0D;&#x0A;- Original project: &apos;11_NETWORK&apos;&#x0D;&#x0A;- Original element: &apos;ex2_socket.MainClass&apos;&#x0D;&#x0A;- Renamed element: &apos;ex2_socket.ServerMainClass&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MainClass&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;ex2_socket{MainClass.java[MainClass" matchStrategy="1" name="ServerMainClass" qualified="false" references="true" similarDeclarations="false" stamp="1630653106180" textual="false" version="1.0"/>
+</session>
